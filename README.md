@@ -12,4 +12,11 @@
 
 
 
+
 因为pta传不上80M以上的视频，所以就压缩了演示视频大小，可能看起来比较糊……
+
+
+------------------
+on Sept 26, 2022
+this is one of my initial programs in Object-Oriented Programming class.
+it uses qt to implement a geometrical drawing software.
